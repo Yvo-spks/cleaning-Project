@@ -1,0 +1,60 @@
+.project {
+    display: block;
+    text-align: center;
+    max-width: 100;
+    padding: 35px;
+    border-radius: 10px;
+    background: linear-gradient(180.3deg, rgb(221, 221, 221) 5.5%, rgb(110, 136, 161) 90.2%);
+
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 32px;
+    border: 1px solid;
+    border-radius: 4px;
+    width: 50%;
+    margin: 0 auto;
+
+
+}
+
+p {
+    font-size: 18px;
+    line-height: normal;
+}
+
+img {
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 4px;
+}
+
+a {
+    text-decoration: underline;
+    font-size: 14px;
+    color: #385170;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    background: #9d9dad;
+    border: 1px solid #27296d;
+    font-size: 20px;
+    border-radius: 4px;
+    padding: 20px 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    transition: opacity 100ms ease-in;
+}
+
+button:hover {
+    background: gray;
+    cursor: pointer;
+
+}
+
+.author {
+    font-size: 15px;
+}
